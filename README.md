@@ -51,5 +51,4 @@ Me tornar um desenvolvedor cada vez melhor, criando projetos e evoluindo na áre
 
 ---
 
-## 💡 Frase
-"Aprendendo hoje para ser melhor amanhã."
+<img src="https://raw.githubusercontent.com/Nulck-BR/Nulck-BR/output/snake.svg" alt="Snake animation" />
