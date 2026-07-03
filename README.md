@@ -1,16 +1,15 @@
 <h1 align="center">👋 Olá, eu sou Gabriel Fantini</h1>
 
 <p align="center">
-💻 Estudante de programação • 🚀 Em evolução constante
+💻 Estudante de programação • 🚀 Buscando evolução constante
 </p>
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Técnico em Informática  
-- 🐍 Comecei na programação com Python  
-- 🌐 Atualmente estudando HTML e CSS  
-- ⚡ Sempre buscando evoluir minhas habilidades  
+## Sobre mim
+- Técnico em Informática  
+- Comecei na programação com Python  
+- Atualmente estudando HTML, CSS e Python
 
 ---
 
